@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ordinary things (lyric visualizer)",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-02-28T06:12:53.130736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ordinary Things",
+      "artist": "Lukas Graham",
+      "has_synced": true,
+      "path": "select/01_Ordinary_Things_Lukas_Graham.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ordinary Things - Wankelmut Remix",
+      "artist": "Lukas Graham",
+      "has_synced": false,
+      "path": "select/02_Ordinary_Things_-_Wankelmut_Remix_Lukas_Graham.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande feat. Nonna",
+      "has_synced": false,
+      "path": "select/03_ordinary_things_(feat._Nonna)_Ariana_Grande_feat._Nonna.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/04_ordinary_things_Ariana_Grande.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_ordinary_things_(feat._Nonna)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande feat. Nonna",
+      "has_synced": true,
+      "path": "select/06_ordinary_things_Ariana_Grande_feat._Nonna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/07_ordinary_things_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_ordinary_things_(feat._Nonna)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ariana Grande - ordinary things (lyric visualizer) ft. Nonna",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/09_Ariana_Grande_-_ordinary_things_(lyric_visualizer)_ft._Nonna_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande; Nonna",
+      "has_synced": true,
+      "path": "select/10_ordinary_things_Ariana_Grande;_Nonna.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ordinary things (合作演出：Nonna)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_ordinary_things_(合作演出_Nonna)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande, Nonna",
+      "has_synced": true,
+      "path": "select/12_ordinary_things_Ariana_Grande,_Nonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande/Nonna",
+      "has_synced": true,
+      "path": "select/13_ordinary_things_(feat._Nonna)_Ariana_Grande_Nonna.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande Feat. Nonna",
+      "has_synced": true,
+      "path": "select/14_ordinary_things_Ariana_Grande_Feat._Nonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/15_ordinary_things_(feat._Nonna)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ordinary things",
+      "artist": "Ariana Grande feat. Marjorie Grande",
+      "has_synced": true,
+      "path": "select/16_ordinary_things_Ariana_Grande_feat._Marjorie_Grande.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ordinary things (feat. Marjorie Grande)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/17_ordinary_things_(feat._Marjorie_Grande)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ordinary things (συμμετέχει: Nonna)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/18_ordinary_things_(συμμετέχει__Nonna)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ordinary things (feat. Nonna)",
+      "artist": "Ariana Grande, Nonna",
+      "has_synced": false,
+      "path": "select/pl_01_ordinary_things_(feat._Nonna)_Ariana_Grande,_Nonna.txt"
+    }
+  ]
+}
